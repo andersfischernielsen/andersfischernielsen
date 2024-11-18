@@ -1,25 +1,10 @@
 ## Hi 🐟
 
-![GitHub statistics](https://github-readme-stats-bay-phi-38.vercel.app/api?username=andersfischernielsen&show_icons=true&theme=transparent)
+![GitHub statistics](https://github-readme-stats-bay-phi-38.vercel.app/api?username=andersfischernielsen&show_icons=true&theme=transparent&hide_border=true)
 
 A software engineer based in Copenhagen, in love with software (especially open-source software). 
 
 I'm:
-- very curious about programming languages and try to write in as many as possible
+- curious about all programming languages and try to write in as many as possible
 - a big fan of working with distributed systems and try to build as many as possible
-- passionate about correctness and safety (though without getting in the way of development speed)
-
-<!--
-**andersfischernielsen/andersfischernielsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- passionate about correctness and safety (without getting in the way of development speed)
