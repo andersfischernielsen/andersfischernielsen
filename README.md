@@ -1,6 +1,6 @@
 ## Hi 🐟
 
-![GitHub statistics](https://github-readme-stats-bay-phi-38.vercel.app/api?username=andersfischernielsen&show_icons=true&theme=transparent&hide_border=true)
+![GitHub statistics](https://github-readme-stats-bay-phi-38.vercel.app/api?username=andersfischernielsen&show_icons=true&theme=transparent&hide_border=true&hide_rank=true)
 
 I'm:
 - a software engineer in love with (open-source) software.
